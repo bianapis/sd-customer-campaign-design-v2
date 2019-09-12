@@ -1,0 +1,15 @@
+{
+  "customerCampaignSpecificationInstanceRecord" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "777437",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    }
+  },
+  "customerCampaignSpecificationCaptureActionTaskReference" : "CCSCATR739194",
+  "customerCampaignSpecificationCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {},
+  "captureRecordReference" : "CRR753850"
+}

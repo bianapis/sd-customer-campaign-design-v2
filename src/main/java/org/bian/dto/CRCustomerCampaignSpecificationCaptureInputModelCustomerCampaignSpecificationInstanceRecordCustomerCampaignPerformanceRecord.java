@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecordCustomerCampaignProcedureInstanceReference;
+
+import javax.validation.Valid;
+  
+/**
+ * CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecord
+ */
+public class CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecord   {
+  private CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecordCustomerCampaignProcedureInstanceReference customerCampaignProcedureInstanceReference = null;
+
+
+  /**
+   * Get customerCampaignProcedureInstanceReference
+   * @return customerCampaignProcedureInstanceReference
+  **/
+
+  public CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecordCustomerCampaignProcedureInstanceReference getCustomerCampaignProcedureInstanceReference() {
+    return customerCampaignProcedureInstanceReference;
+  }
+
+  public void setCustomerCampaignProcedureInstanceReference(CRCustomerCampaignSpecificationCaptureInputModelCustomerCampaignSpecificationInstanceRecordCustomerCampaignPerformanceRecordCustomerCampaignProcedureInstanceReference customerCampaignProcedureInstanceReference) {
+    this.customerCampaignProcedureInstanceReference = customerCampaignProcedureInstanceReference;
+  }
+
+
+}
+

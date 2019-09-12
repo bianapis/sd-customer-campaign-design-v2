@@ -1,0 +1,37 @@
+{
+  "customerCampaignSpecificationInstanceRecord" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "750034",
+        "customerCampaignProcedureResult" : "customerCampaignProcedureResult",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    },
+    "customerCampaignSpecification" : {
+      "customerCampaignExecutionGuidelines" : {
+        "customerCampaignInteractionGuide" : "customerCampaignInteractionGuide",
+        "customerCampaignEligibility" : "customerCampaignEligibility",
+        "customerCampaignQualifications" : "customerCampaignQualifications"
+      },
+      "customerCampaignProductServiceUsage" : {
+        "productServiceCampaignTransferPricingArrangement" : "productServiceCampaignTransferPricingArrangement",
+        "productServiceCampaignEngagementDescription" : "productServiceCampaignEngagementDescription",
+        "customerCampaignProductServiceType" : "customerCampaignProductServiceType"
+      },
+      "customerCampaignConsumables" : {
+        "customerCampaignConsumableDescription" : "customerCampaignConsumableDescription",
+        "customerCampaignConsumableType" : "customerCampaignConsumableType"
+      }
+    },
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricGoal" : "customerCampaignMetricGoal",
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  },
+  "updateResponseRecord" : {},
+  "customerCampaignSpecificationUpdateActionTaskRecord" : {},
+  "customerCampaignSpecificationUpdateActionTaskReference" : "CCSUATR728991"
+}

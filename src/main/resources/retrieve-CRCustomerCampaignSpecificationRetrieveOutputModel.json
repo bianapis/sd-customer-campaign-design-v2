@@ -1,0 +1,47 @@
+{
+  "customerCampaignSpecificationInstanceAnalysis" : {
+    "customerCampaignSpecificationInstanceAnalysisData" : "customerCampaignSpecificationInstanceAnalysisData",
+    "customerCampaignSpecificationInstanceAnalysisReportType" : "customerCampaignSpecificationInstanceAnalysisReportType",
+    "customerCampaignSpecificationInstanceAnalysisReport" : {}
+  },
+  "customerCampaignSpecificationInstanceRecord" : {
+    "customerCampaignPerformanceRecord" : {
+      "customerCampaignProcedureInstanceReference" : {
+        "customerCampaignProcedureVersionNumber" : "customerCampaignProcedureVersionNumber",
+        "employeeBusinessUnitReference" : "778963",
+        "customerCampaignProcedureResult" : "customerCampaignProcedureResult",
+        "customerCampaignProcedureSetup" : "customerCampaignProcedureSetup"
+      }
+    },
+    "customerCampaignSpecification" : {
+      "customerCampaignExecutionGuidelines" : {
+        "customerCampaignInteractionGuide" : "customerCampaignInteractionGuide",
+        "customerCampaignEligibility" : "customerCampaignEligibility",
+        "customerCampaignQualifications" : "customerCampaignQualifications"
+      },
+      "customerCampaignProductServiceUsage" : {
+        "productServiceCampaignTransferPricingArrangement" : "productServiceCampaignTransferPricingArrangement",
+        "productServiceCampaignEngagementDescription" : "productServiceCampaignEngagementDescription",
+        "customerCampaignProductServiceType" : "customerCampaignProductServiceType"
+      },
+      "customerCampaignConsumables" : {
+        "customerCampaignConsumableDescription" : "customerCampaignConsumableDescription",
+        "customerCampaignConsumableType" : "customerCampaignConsumableType"
+      }
+    },
+    "customerCampaignType" : "customerCampaignType",
+    "customerCampaignDescription" : "customerCampaignDescription",
+    "customerCampaignMetrics" : {
+      "customerCampaignMetricGoal" : "customerCampaignMetricGoal",
+      "customerCampaignMetricDefinition" : "customerCampaignMetricDefinition"
+    }
+  },
+  "customerCampaignSpecificationRetrieveActionTaskReference" : "CCSRATR774661",
+  "customerCampaignSpecificationRetrieveActionTaskRecord" : {},
+  "customerCampaignSpecificationRetrieveActionResponse" : "customerCampaignSpecificationRetrieveActionResponse",
+  "customerCampaignSpecificationInstanceReportRecord" : {
+    "customerCampaignSpecificationInstanceReportData" : "customerCampaignSpecificationInstanceReportData",
+    "customerCampaignSpecificationInstanceReportType" : "customerCampaignSpecificationInstanceReportType",
+    "customerCampaignSpecificationInstanceReport" : {}
+  }
+}

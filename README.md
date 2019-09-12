@@ -1,0 +1,1 @@
+# Customer Campaign Design Service Domain v2.0
